@@ -1,0 +1,125 @@
+*{
+    font-family: sans-serif;
+}
+.top {
+    background-color: #023e58;
+    position: fixed;
+    top: 0;
+    left: 15%;
+    right: 15%;
+    height: 150px;
+    color: white;
+}
+
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    background-color: #087e88;
+    width: 95%;
+}
+
+.topimg {
+    position: absolute;
+    right: 5%;
+    top: 10px;
+    bottom: 10px;
+    width: 90px;
+}
+
+.slogan{
+    position: absolute;
+    right: 15%;
+    top: 10%;
+    font-size: 30px;
+}
+
+.name{
+    position: absolute;
+    top: 0;
+    left: 20px;
+    font-size: 50px;
+}
+
+
+ul.menu>li {
+    float: left;
+}
+ul.language>li {
+    float: right;
+}
+ul.language {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: #087e88;
+    width: 25%;
+    
+}
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 6px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+li a:hover {
+    background-color: #07cbd9;
+    border-radius: 5px;
+}
+
+.post {
+    margin-top: 200px;
+    margin-left: 25%;
+    margin-right: 25%;
+    display: block;
+}
+
+.post>div{
+    border: 3px solid #087e88;
+    border-radius: 3px;
+    padding: 20px;
+    margin-bottom: 30px;
+    background-color: #0caab4;
+    font-size: large;
+}
+.post>div>p{
+    background-color: white;
+    border-radius: 3px;
+    padding: 20px;
+}
+
+.orain {
+    background-color: #27a57e;
+    border-radius: 5px;
+}
+.fondoirudi{
+    position: fixed;
+    top: 30%;
+    left: 35%;
+    bottom: 25%;
+    opacity: 0.10;
+}
+input[type="submit"]{
+    background-color: #023e58;
+    cursor: pointer;
+    height: 40px;
+    color: white;
+    width: 95%;
+}
+label, input, textarea, select{
+    margin-bottom: 15px;
+    width: 99%;
+    height: 30px;
+}
