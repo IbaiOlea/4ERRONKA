@@ -2,11 +2,11 @@
     font-family: sans-serif;
 }
 .top {
-    background-color: #023e58;
+    background-color: #ae7b57;
     position: fixed;
     top: 0;
-    left: 15%;
-    right: 15%;
+    left: 0;
+    right: 0;
     height: 150px;
     color: white;
 }
@@ -19,7 +19,7 @@ ul.menu {
     height: 30px;
     position: absolute;
     bottom: 0;
-    background-color: #087e88;
+    background-color: #270f1b;
     width: 95%;
 }
 
@@ -69,7 +69,7 @@ ul.language {
     position: absolute;
     bottom: 0;
     right: 0;
-    background-color: #087e88;
+    background-color: #270f1b;;
     width: 25%;
     
 }
@@ -83,7 +83,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #07cbd9;
+    background-color: ##270f1b;
     border-radius: 5px;
 }
 
@@ -95,11 +95,11 @@ li a:hover {
 }
 
 .post>div{
-    border: 3px solid #087e88;
+    border: 3px solid ##270f1b;
     border-radius: 3px;
     padding: 20px;
     margin-bottom: 30px;
-    background-color: #0caab4;
+    background-color: #270f1b;
     font-size: large;
 }
 .post>div>p{
@@ -205,3 +205,4 @@ iframe{
 iframe:hover {
     transform: scale(1.03); 
 }
+
