@@ -10,22 +10,9 @@
 
 <body>
     <img src="Logo.png" class="fondoirudi">
-    <div class="top">
-        <p class="name">RigbyTech</p>
-        <p class="slogan">Reuse technology, protect the future.</p>
-        <img src="Logo.png" class="topimg">
-        <ul class="menu">
-            <li><a href="news.php">News</a></li>
-            <li><a href="aboutus.php" class="orain">About Us</a></li>
-            <li><a href="buy.php">Buy</a></li>
-            <li><a href="sell.php">Sell</a></li>
-            <li><a href="contact.php">Contact</a></li>
-        </ul>
-        <ul class="language">
-            <li><a href="guriburuz.php">EUS</a></li>
-            <li><a href="aboutus.php" class="orain">ENG</a></li>
-        </ul>
-    </div>
+    <?php
+    require_once("menuen.php");
+    ?>
     <div class="post">
         <h1>About Us</h1>
         <div>
@@ -76,9 +63,9 @@
             <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1EBCLDQ1HxE-um9ZGRX9XxgAFxAQ0BtI&ehbc=2E312F&noprof=1" width= 99% height="480"></iframe>
         </div>
     </div>
-    <div class="footer">
-        <p>&copy; 2024 RigbyTech. All rights reserved.</p>
-    </div>
+    <?php
+    require_once("footer.php");
+    ?>
 </body>
 
 </html>

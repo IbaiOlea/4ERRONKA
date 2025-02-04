@@ -10,22 +10,9 @@
 
 <body>
     <img src="Logo.png" class="fondoirudi">
-    <div class="top">
-        <img src="Logo.png" width="50px" class="topimg">
-        <p class="name">RigbyTech</p>
-        <p class="slogan">Teknologia berrerabili, etorkizuna babestu.</p>
-        <ul class="menu">
-            <li><a href="berriak.php">Berriak</a></li>
-            <li><a href="guriburuz.php">Guri Buruz</a></li>
-            <li><a href="erosi.php" class="orain">Erosi</a></li>
-            <li><a href="saldu.php">Saldu</a></li>
-            <li><a href="kontaktua.php">Kontaktua</a></li>
-        </ul>
-        <ul class="language">
-            <li><a href="erosi.php" class="orain">EUS</a></li>
-            <li><a href="buy.php">ENG</a></li>
-        </ul>
-    </div>
+    <?php
+    require_once("menueus.php");
+    ?>
     <div class="post">
         <h1>Erosi</h1>
         <p>Jarraian salgai ditugun produktuak ikus ditzakezu:</p>
@@ -292,9 +279,9 @@
             -->
         </div>
     </div>
-    <div class="footer">
-        <p>&copy; 2024 RigbyTech. Eskubide guztiak erreserbatuta.</p>
-    </div>
+    <?php
+    require_once("footer.php");
+    ?>
 </body>
 
 </html>

@@ -10,23 +10,9 @@
 
 <body>
     <img src="Logo.png" class="fondoirudi">
-    <div class="top">
-        <img src="Logo.png" width="50px" class="topimg">
-        <p class="name">RigbyTech</p>
-        <p class="slogan">Reuse technology, protect the future.</p>
-        <img src="Logo.png" class="topimg">
-        <ul class="menu">
-            <li><a href="news.php">News</a></li>
-            <li><a href="aboutus.php">About Us</a></li>
-            <li><a href="buy.php">Buy</a></li>
-            <li><a href="sell.php">Sell</a></li>
-            <li><a href="contact.php" class="orain">Contact</a></li>
-        </ul>
-        <ul class="language">
-            <li><a href="kontaktua.php">EUS</a></li>
-            <li><a href="contact.php" class="orain">ENG</a></li>
-        </ul>
-    </div>
+    <?php
+    require_once("menuen.php");
+    ?>
     <div class="post">
         <h1>Contact</h1>
         <br>
@@ -66,9 +52,9 @@
             </form>
         </div>
     </div>
-    <div class="footer">
-        <p>&copy; 2024 RigbyTech. All rights reserved.</p>
-    </div>
+    <?php
+    require_once("footer.php");
+    ?>
 </body>
 
 </html>

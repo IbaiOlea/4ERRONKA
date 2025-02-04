@@ -10,22 +10,9 @@
 
 <body>
     <img src="Logo.png" class="fondoirudi" draggable="false">
-    <div class="top">
-        <p class="name">RigbyTech</p>
-        <p class="slogan">Teknologia berrerabili, etorkizuna babestu.</p>
-        <img src="Logo.png" class="topimg">
-        <ul class="menu">
-            <li><a href="berriak.php" class="orain">Berriak</a></li>
-            <li><a href="guriburuz.php">Guri Buruz</a></li>
-            <li><a href="erosi.php">Erosi</a></li>
-            <li><a href="saldu.php">Saldu</a></li>
-            <li><a href="kontaktua.php">Kontaktua</a></li>
-        </ul>
-        <ul class="language">
-            <li><a href="berriak.php" class="orain">EUS</a></li>
-            <li><a href="news.php">ENG</a></li>
-        </ul>
-    </div>
+    <?php
+    require_once("menueus.php");
+    ?>
     <div class="post">
         <h1>Berriak</h1>
         
@@ -82,9 +69,9 @@
         </div>
 
     </div>
-    <div class="footer">
-        <p>&copy; 2024 RigbyTech. Eskubide guztiak erreserbatuta.</p>
-    </div>
+    <?php
+    require_once("footer.php");
+    ?>
 </body>
 
 <html>
