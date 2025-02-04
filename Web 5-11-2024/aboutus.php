@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <img src="Logo.png" class="fondoirudi">
+    <img src="logoa.png" class="fondoirudi">
     <?php
     require_once("menuen.php");
     ?>
