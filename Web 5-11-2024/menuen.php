@@ -1,7 +1,7 @@
 <div class="top">
         <p class="name">RigbyTech</p>
         <p class="slogan">Reuse technology, protect the future.</p>
-        <img src="logoa.png" class="topimg">
+        <img src="Logoa.png" class="topimg">
         <ul class="menu">
             <li><a href="news.php">News</a></li>
             <li><a href="aboutus.php" class="orain">About Us</a></li>

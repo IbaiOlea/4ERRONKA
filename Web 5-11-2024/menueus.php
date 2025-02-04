@@ -1,7 +1,7 @@
 <div class="top">
         <p class="name">RigbyTech</p>
         <p class="slogan">Teknologia berrerabili, etorkizuna babestu.</p>
-        <img src="Logo.png" class="topimg">
+        <img src="Logoa.png" class="topimg">
         <ul class="menu">
             <li><a href="berriak.php" class="orain">Berriak</a></li>
             <li><a href="guriburuz.php">Guri Buruz</a></li>

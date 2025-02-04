@@ -5,11 +5,11 @@
     <meta charset="UTF-8" />
     <title>Berriak</title>
     <link rel="stylesheet" type="text/css" href="revivatech.css" media="screen" />
-    <link rel="icon" type="image/png" href="Logo.png" />
+    <link rel="icon" type="image/png" href="Logoa.png" />
 </head>
 
 <body>
-    <img src="Logo.png" class="fondoirudi" draggable="false">
+    <img src="Logoa.png" class="fondoirudi" draggable="false">
     <?php
     require_once("menueus.php");
     ?>
