@@ -26,7 +26,7 @@
                 <p><strong>Condition:</strong> New</p>
                 <p class="price">70 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -37,7 +37,7 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">100 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -48,7 +48,7 @@
                 <p><strong>Condition:</strong> Fair condition</p>
                 <p class="price">750 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -59,7 +59,7 @@
                 <p><strong>Condition:</strong> New</p>
                 <p class="price">50 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -69,7 +69,7 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">900 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -79,7 +79,7 @@
                 <p><strong>Condition:</strong> New</p>
                 <p class="price">300 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -90,7 +90,7 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">800 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -101,7 +101,7 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">400 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -112,7 +112,7 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">450 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -123,7 +123,7 @@
                 <p><strong>Condition:</strong> Fair condition</p>
                 <p class="price">250 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -134,7 +134,7 @@
                 <p><strong>Condition:</strong> New</p>
                 <p class="price">40 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -145,7 +145,7 @@
                 <p><strong>Condition:</strong> New</p>
                 <p class="price">90 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
 
             <div class="product-item">
@@ -155,7 +155,7 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">950 €</p>
                 <button>Purchase</button>
-                <button>Add to Cart</button>
+                <button onclick="myFunction()">Add to Cart</button>
             </div>
             <div class="product-item">
                 <img src="https://images.samsung.com/is/image/samsung/es-ur59c-lu32r590cwuxen-frontblack-153830879?$650_519_PNG$"
@@ -165,7 +165,7 @@
                 <p><strong>Condition:</strong> New</p>
                 <p class="price">€350</p>
                 <button>Buy</button>
-                <button>Add to cart</button>
+                <button onclick="myFunction()">Add to cart</button>
             </div>
             <div class="product-item">
                 <img src="https://m.media-amazon.com/images/I/71wRgrGB9bL._AC_UF894,1000_QL80_.jpg"
@@ -175,7 +175,7 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">€700</p>
                 <button>Buy</button>
-                <button>Add to cart</button>
+                <button onclick="myFunction()">Add to cart</button>
             </div>
             
             <div class="product-item">
@@ -185,7 +185,7 @@
                 <p><strong>Condition:</strong> Fair condition</p>
                 <p class="price">€150</p>
                 <button>Buy</button>
-                <button>Add to cart</button>
+                <button onclick="myFunction()">Add to cart</button>
             </div>
             
             <div class="product-item">
@@ -196,7 +196,7 @@
                 <p><strong>Condition:</strong> New</p>
                 <p class="price">€80</p>
                 <button>Buy</button>
-                <button>Add to cart</button>
+                <button onclick="myFunction()">Add to cart</button>
             </div>
             
             <div class="product-item">
@@ -207,7 +207,7 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">€150</p>
                 <button>Buy</button>
-                <button>Add to cart</button>
+                <button onclick="myFunction()">Add to cart</button>
             </div>
             
             <div class="product-item">
@@ -218,7 +218,7 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">€200</p>
                 <button>Buy</button>
-                <button>Add to cart</button>
+                <button onclick="myFunction()">Add to cart</button>
             </div>
             
             <div class="product-item">
@@ -229,7 +229,7 @@
                 <p><strong>Condition:</strong> Fair condition</p>
                 <p class="price">€300</p>
                 <button>Buy</button>
-                <button>Add to cart</button>
+                <button onclick="myFunction()">Add to cart</button>
             </div>
             
             <div class="product-item">
@@ -251,7 +251,7 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">€650</p>
                 <button>Buy</button>
-                <button>Add to cart</button>
+                <button onclick="myFunction()">Add to cart</button>
             </div>
             
             <div class="product-item">
@@ -262,9 +262,13 @@
                 <p><strong>Condition:</strong> Good condition</p>
                 <p class="price">€350</p>
                 <button>Buy</button>
-                <button>Add to cart</button>
+                <button onclick="myFunction()">Add to cart</button>
             </div>
-            
+            <script>
+                function myFunction() {
+                    alert("Saskira gehitu da!");
+                    }
+            </script>
         </div>
     </div>
     <?php

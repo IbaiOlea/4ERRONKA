@@ -26,7 +26,7 @@
                 <p><strong>Egoera:</strong> Berria</p>
                 <p class="price">70 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -37,7 +37,7 @@
                 <p><strong>Egoera:</strong> Egoera onean</p>
                 <p class="price">100 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -48,7 +48,7 @@
                 <p><strong>Egoera:</strong> Egoera ertainean</p>
                 <p class="price">750 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -59,7 +59,7 @@
                 <p><strong>Egoera:</strong> Berria</p>
                 <p class="price">50 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -69,7 +69,7 @@
                 <p><strong>Egoera:</strong> Egoera onean</p>
                 <p class="price">900 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -79,7 +79,7 @@
                 <p><strong>Egoera:</strong> Berria</p>
                 <p class="price">300 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -90,7 +90,7 @@
                 <p><strong>Egoera:</strong> Egoera onean</p>
                 <p class="price">800 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -101,7 +101,7 @@
                 <p><strong>Egoera:</strong> Egoera onean</p>
                 <p class="price">400 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -112,7 +112,7 @@
                 <p><strong>Egoera:</strong>Egoera onean</p>
                 <p class="price"> 450€</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -123,7 +123,7 @@
                 <p><strong>Egoera:</strong>Egoera ertainean</p>
                 <p class="price"> 250€</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -134,7 +134,7 @@
                 <p><strong>Egoera:</strong>Berria</p>
                 <p class="price"> 40€</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -145,7 +145,7 @@
                 <p><strong>Egoera:</strong>Berria</p>
                 <p class="price"> 90€</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -155,7 +155,7 @@
                 <p><strong>Egoera:</strong>Egoera onean</p>
                 <p class="price"> 950€</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -166,7 +166,7 @@
                 <p><strong>Egoera:</strong>Berria</p>
                 <p class="price"> 350€</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
             <div class="product-item">
                 <img src="https://m.media-amazon.com/images/I/71wRgrGB9bL._AC_UF894,1000_QL80_.jpg"
@@ -176,7 +176,7 @@
                 <p><strong>Egoera:</strong> Egoera onean</p>
                 <p class="price">700 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -186,7 +186,7 @@
                 <p><strong>Egoera:</strong> Egoera ertainean</p>
                 <p class="price">150 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -197,7 +197,7 @@
                 <p><strong>Egoera:</strong> Berria</p>
                 <p class="price">80 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -208,7 +208,7 @@
                 <p><strong>Egoera:</strong> Egoera onean</p>
                 <p class="price">150 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -219,7 +219,7 @@
                 <p><strong>Egoera:</strong> Egoera onean</p>
                 <p class="price">200 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -230,7 +230,7 @@
                 <p><strong>Egoera:</strong> Egoera ertainean</p>
                 <p class="price">300 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -241,7 +241,7 @@
                 <p><strong>Egoera:</strong> Berria</p>
                 <p class="price">60 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -252,7 +252,7 @@
                 <p><strong>Egoera:</strong> Egoera onean</p>
                 <p class="price">650 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
 
             <div class="product-item">
@@ -263,21 +263,13 @@
                 <p><strong>Egoera:</strong> Egoera onean</p>
                 <p class="price">350 €</p>
                 <button>Erosi</button>
-                <button>Saskira gehitu</button>
+                <button onclick="myFunction()">Saskira gehitu</button>
             </div>
-            <!--
-            Plantilla
-            <div class="product-item">
-                <img src=""
-                    alt="">
-                <h3></h3>
-                <p><strong>Mota:</strong> MOTA</p>
-                <p><strong>Egoera:</strong> EGOERA</p>
-                <p class="price"> €</p>
-                <button>Erosi</button>
-                <button>Saskira gehitu</button>
-            </div>
-            -->
+            <script>
+                function myFunction() {
+                    alert("Saskira gehitu da!");
+                    }
+            </script>
         </div>
     </div>
     <?php

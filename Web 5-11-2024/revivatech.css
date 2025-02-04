@@ -83,7 +83,7 @@ li a {
 }
 
 li a:hover {
-    background-color: ##270f1b;
+    background-color: #270f1b;
     border-radius: 5px;
 }
 
@@ -95,7 +95,7 @@ li a:hover {
 }
 
 .post>div{
-    border: 3px solid ##270f1b;
+    border: 3px solid #270f1b;
     border-radius: 3px;
     padding: 20px;
     margin-bottom: 30px;
