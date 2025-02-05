@@ -74,7 +74,7 @@
 
             <br>
 
-            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1EBCLDQ1HxE-um9ZGRX9XxgAFxAQ0BtI&ehbc=2E312F&noprof=1" width= 99% height="480"></iframe>
+            <iframe src="https://www.google.com/maps/d/embed?mid=1AaNFfC9p8v0YUPMLxh5_vBfIHci55g0&ehbc=2E312F" width="99%" height="480"></iframe>
         </div>
     </div>
     <?php
