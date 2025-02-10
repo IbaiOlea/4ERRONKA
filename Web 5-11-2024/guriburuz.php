@@ -13,7 +13,7 @@
     <img src="Logoa.png" class="fondoirudi">
     <div class="top">
         <p class="name">RigbyTech</p>
-        <p class="slogan">Teknologia berrerabili, etorkizuna babestu.</p>
+        <p class="slogan">Rigbyrekin, etorkizuna programatzen! </p>
         <img src="Logoa.png" class="topimg">
         <ul class="menu">
             <li><a href="berriak.php">Berriak</a></li>
@@ -21,6 +21,7 @@
             <li><a href="erosi.php">Erosi</a></li>
             <li><a href="saldu.php">Saldu</a></li>
             <li><a href="kontaktua.php">Kontaktua</a></li>
+            <li class="s"><a href="saioahasi.php">Saioa Hasi</a></li>
         </ul>
         <ul class="language">
             <li><a href="guriburuz.php">EUS</a></li>
@@ -30,9 +31,9 @@
     <div class="post">
         <h1>Guri Buruz</h1>
         <div>
-            <h2 class="letterTitle">RevivaTech: Teknologia berrerabili, etorkizuna babestu.</h2>
+            <h2 class="letterTitle">RigbyTech: Teknologia berrerabili, etorkizuna babestu.</h2>
 
-            <p><strong>RevivaTech</strong> 2023an sortu zen bigarren eskuko gailu informatikoen merkatuan aukera
+            <p><strong>RigbyTech</strong> 2023an sortu zen bigarren eskuko gailu informatikoen merkatuan aukera
                 berritzaile
                 bat eskaintzeko asmoarekin. Hasiera-hasieratik, gure helburua izan da gailu elektronikoen bizitza
                 luzatzea
@@ -56,7 +57,7 @@
             </p>
 
             <h2 class="letterTitle">Printzipioak</h2>
-            <p>RevivaTech-en, gure printzipioak argiak dira: </p>
+            <p>RigbyTech-en, gure printzipioak argiak dira: </p>
             <ul>
                 <li><strong>Jasangarritasuna:</strong> Teknologiaren bidez hondakin elektronikoen murrizketa sustatzen
                     dugu,
@@ -74,7 +75,7 @@
             <br>
 
             <h2 class="letterTitle">Enpresaren Funtzionamendua</h2>
-            <p>RevivaTech-en funtzionamendua argi eta erraza da:</p>
+            <p>RigbyTech-en funtzionamendua argi eta erraza da:</p>
             <ol>
                 <li><strong>Gailuen bilketa:</strong> Bezeroek webgunearen bidez gailuak saltzeko eskaera egin dezakete.
                     Gure teknikari batekin hitzordua ezarri ondoren, gailua baloratuko da.</li>
@@ -90,7 +91,7 @@
             <br>
 
             <h2 class="letterTitle">Biltegien Kokapenak</h2>
-            <p>RevivaTech-ek hainbat biltegi ditu Euskal Herrian zehar. Biltegirik garrantzitsuenak honako hauek dira:
+            <p>RigbyTech-ek hainbat biltegi ditu Euskal Herrian zehar. Biltegirik garrantzitsuenak honako hauek dira:
             </p>
             <ul>
                 <li><strong>Donostia:</strong> Gipuzkoako biltegia, Sasieta mankomunitatearekin elkarlanean, hemen jasotzen dira birziklatzera bideratutako gailuak.</li>

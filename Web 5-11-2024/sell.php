@@ -13,7 +13,7 @@
     <img src="Logoa.png" class="fondoirudi">
     <div class="top">
         <p class="name">RigbyTech</p>
-        <p class="slogan">Reuse technology, protect the future.</p>
+        <p class="slogan">With Rigby, programming the future! </p>
         <img src="Logoa.png" class="topimg">
         <ul class="menu">
             <li><a href="news.php">News</a></li>
@@ -21,6 +21,7 @@
             <li><a href="buy.php">Buy</a></li>
             <li><a href="sell.php">Sell</a></li>
             <li><a href="contact.php">Contact</a></li>
+            <li class="s"><a href="signin.php">Sign In</a></li>
         </ul>
         <ul class="language">
             <li><a href="saldu.php">EUS</a></li>

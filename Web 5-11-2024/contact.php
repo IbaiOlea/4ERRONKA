@@ -13,7 +13,7 @@
     <img src="Logoa.png" class="fondoirudi">
     <div class="top">
         <p class="name">RigbyTech</p>
-        <p class="slogan">Reuse technology, protect the future.</p>
+        <p class="slogan">With Rigby, programming the future! </p>
         <img src="Logoa.png" class="topimg">
         <ul class="menu">
             <li><a href="news.php">News</a></li>
@@ -21,6 +21,7 @@
             <li><a href="buy.php">Buy</a></li>
             <li><a href="sell.php">Sell</a></li>
             <li><a href="contact.php">Contact</a></li>
+            <li class="s"><a href="signin.php">Sign In</a></li>
         </ul>
         <ul class="language">
             <li><a href="kontaktua.php">EUS</a></li>
@@ -32,11 +33,11 @@
         <br>
         <h3>Contact Information:</h3>
         <div>
-            <p><strong>Address:</strong> RevivaTech, Donostia, Gipuzkoa, Basque Country</p>
-            <p><strong>Phone:</strong> +34 123 456 789</p>
-            <p><strong>Phone (technical support):</strong> +34 987 654 321</p>
-            <p><strong>Email (general):</strong> info@revivatech.com</p>
-            <p><strong>Email (technical support):</strong> support@revivatech.com</p>
+            <p><strong>Address:</strong> RigbyTech, Iruña, Nafarroa</p>
+            <p><strong>Phone:</strong> +34 632 33 28 79</p>
+            <p><strong>Phone (technical support):</strong> +34 944 73 90 56</p>
+            <p><strong>Email (general):</strong> info@rigbytech.com</p>
+            <p><strong>Email (technical support):</strong> support@rigbytech.com</p>
         </div>
         <br>
         <h3>Get in Touch with Us:</h3>

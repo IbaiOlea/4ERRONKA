@@ -13,7 +13,7 @@
     <img src="Logoa.png" class="fondoirudi">
     <div class="top">
         <p class="name">RigbyTech</p>
-        <p class="slogan">Teknologia berrerabili, etorkizuna babestu.</p>
+        <p class="slogan">Rigbyrekin, etorkizuna programatzen! </p>
         <img src="Logoa.png" class="topimg">
         <ul class="menu">
             <li><a href="berriak.php">Berriak</a></li>
@@ -21,6 +21,7 @@
             <li><a href="erosi.php">Erosi</a></li>
             <li><a href="saldu.php">Saldu</a></li>
             <li><a href="kontaktua.php">Kontaktua</a></li>
+            <li class="s"><a href="saioahasi.php">Saioa Hasi</a></li>
         </ul>
         <ul class="language">
             <li><a href="erosi.php">EUS</a></li>
@@ -288,6 +289,7 @@
     <?php
     require_once("footer.php");
     ?>
+
 </body>
 
 </html>

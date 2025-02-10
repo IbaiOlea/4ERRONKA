@@ -13,7 +13,7 @@
     <img src="Logoa.png" class="fondoirudi" draggable="false">
     <div class="top">
         <p class="name">RigbyTech</p>
-        <p class="slogan">Teknologia berrerabili, etorkizuna babestu.</p>
+        <p class="slogan">Rigbyrekin, etorkizuna programatzen! </p>
         <img src="Logoa.png" class="topimg">
         <ul class="menu">
             <li><a href="berriak.php">Berriak</a></li>
@@ -21,6 +21,7 @@
             <li><a href="erosi.php">Erosi</a></li>
             <li><a href="saldu.php">Saldu</a></li>
             <li><a href="kontaktua.php">Kontaktua</a></li>
+            <li class="s"><a href="saioahasi.php">Saioa Hasi</a></li>
         </ul>
         <ul class="language">
             <li><a href="berriak.php">EUS</a></li>
@@ -31,54 +32,46 @@
         <h1>Berriak</h1>
         
         <div>
-            <h3 class="letterTitle">RevivaTech-ek 10.000 Gailu Elektroniko Birziklatu Ditu!</h3>
+            <h3 class="letterTitle">RigbyTech-ek AI-poderatutako software berria aurkezten du datuen segurtasunerako!</h3>
             <p>
-                <em>2024ko Maiatzaren 1-a</em><br><br>
-                Gure birziklapen ekimenari esker, 10.000 gailu elektroniko birziklatzea lortu dugu. Gailu hauek
-                ingurumenean duten eragina murrizten lagundu dute, eta horrekin harro gaude. Ingurumenarekin
-                konprometituta jarraitzen dugu!
+                <em>2025 Urtarrilak 18</em><br><br>
+                RigbyTech-en azken softwareak adimen artifiziala erabiltzen du informazio sentikorra babesteko enkriptazio aurreratuarekin.
             </p>
         </div>
 
         <div>
-            <h3 class="letterTitle">RevivaTech: Gailu Erabilien Salmentan %20ko Deskontua!</h3>
+            <h3 class="letterTitle">RigbyTech-ek hodeiaren informatikan mundu mailako liderrekin elkarlanean aritzen da!</h3>
             <p>
-                <em>2024ko Apirilaren 10a</em><br><br>
-                Promozio berezia jarri dugu martxan! Gure webgunean salgai dauden gailu erabili guztietan %20ko
-                deskontua
-                eskaintzen dugu. Ez galdu aukera eta berrerabili teknologia prezio ezin hobean!
+                <em>2025 Otsailak 10</em><br><br>
+                RigbyTech-ek hodei hornitzaile garrantzitsuekin elkarlanean aritzen da bere azpiegitura hobetzeko eta zerbitzu azkarrago eta fidagarriagoak eskaintzeko.
             </p>
         </div>
         <br>
 
         <div>
-            <h3 class="letterTitle">RevivaTech Bilbon Biltegi Berri Bat Zabaldu Du</h3>
+            <h3 class="letterTitle">RigbyTech-ek datu-zentroen operazioak zabaltzen ditu Europan!</h3>
             <p>
-                <em>2024ko Martxoaren 20-a</em><br><br>
-                Birsalmenta prozesua hobetzeko asmoz, Bilbon biltegi berri bat ireki dugu. Biltegi honek gailuak azkar
-                berrikusi eta katalogoan sartzea ahalbidetuko digu, gure zerbitzua are eraginkorragoa eginez.
+                <em>2025 Martxoak 22</em><br><br>
+                RigbyTech-ek hiru Europako herrialdetan datu-zentro berri bat ireki du, hodei zerbitzuen eskaria asetzeko.
             </p>
         </div>
         <br>
 
         <br>
         <div>
-            <h3 class="letterTitle">Gure Web Plataforma Berriari Esker, Salmenta Prozesua Errazagoa</h3>
+            <h3 class="letterTitle">RigbyTech-ek kuantum konputazioaren ikerketa-biraketa aurkezten du! </h3>
             <p>
-                <em>2024ko Otsailaren 5-a</em><br><br>
-                Webgunearen berrikuntza egin dugu! Orain, erabiltzaileek gailuak errazago saldu eta baloratu ahal izango
-                dituzte. Prozesua erraztu dugu eta erosketak egiteko interfaze erosoagoa eta segurua eskaintzen dugu.
+                <em>2025 Otsailak 5</em><br><br>
+                RigbyTech-ek kuantum konputazioan aurrerapen garrantzitsu bat iragarri du, prozesamendu-abiadura eta efizientzia iraultzeko helburuarekin.
             </p>
         </div>
         <br>
 
         <div>
-            <h3 class="letterTitle">RevivaTech-ek Sasieta Mankomunitatearekin Lankidetza Zabaltzen Du</h3>
+            <h3 class="letterTitle">RigbyTech-en Blockchain soluzioek aitortza handia jasotzen dute sektorean!</h3>
             <p>
-                <em>2024ko Urtarrilaren 15-a</em><br><br>
-                Gure ingurumenarekiko konpromisoa sendotuz, Sasieta mankomunitatearekin dugun lankidetza berritu eta
-                zabaldu dugu. Lankidetza honek gailu elektroniko gehiago birziklatzea ahalbidetuko digu, ingurumena
-                babesteko gure helburuak betetzen lagunduz.
+                <em>2025 Urtarrilaren 02</em><br><br>
+                RigbyTech-en blockchain teknologia orain onartu da merkatuan seguruena eta eskalagarri handiena den plataforma gisa.
             </p>
         </div>
 

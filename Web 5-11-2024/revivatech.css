@@ -1,6 +1,7 @@
 *{
     font-family: sans-serif;
 }
+
 .top {
     background-color: #ae7b57;
     position: fixed;
@@ -22,6 +23,7 @@ ul.menu {
     bottom: 0;
     background-color: #270f1b;
     width: 95%;
+    
 }
 
 .letterTitle {
@@ -78,7 +80,7 @@ li a {
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 6px 16px;
+    padding: 6px 20px;
     text-decoration: none;
     font-weight: bold;
 }
@@ -126,7 +128,7 @@ input[type="submit"]{
     cursor: pointer;
     height: 40px;
     color: white;
-    width: 95%;
+    width: 100%;
 }
 label, input, textarea, select{
     margin-bottom: 15px;
@@ -206,5 +208,9 @@ iframe{
 
 iframe:hover {
     transform: scale(1.03); 
+}
+.s{
+    background-color: green;
+    border-radius: 5px;
 }
 

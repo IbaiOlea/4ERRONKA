@@ -13,7 +13,7 @@
     <img src="Logoa.png" class="fondoirudi">
     <div class="top">
         <p class="name">RigbyTech</p>
-        <p class="slogan">Teknologia berrerabili, etorkizuna babestu.</p>
+        <p class="slogan">Rigbyrekin, etorkizuna programatzen! </p>
         <img src="Logoa.png" class="topimg">
         <ul class="menu">
             <li><a href="berriak.php">Berriak</a></li>
@@ -21,6 +21,7 @@
             <li><a href="erosi.php">Erosi</a></li>
             <li><a href="saldu.php">Saldu</a></li>
             <li><a href="kontaktua.php">Kontaktua</a></li>
+            <li class="s"><a href="saioahasi.php">Saioa Hasi</a></li>
         </ul>
         <ul class="language">
             <li><a href="kontaktua.php">EUS</a></li>
@@ -32,11 +33,11 @@
         <br>
         <h3>Harremanetarako informazioa:</h3>
         <div>
-            <p><strong>Helbidea:</strong> RevivaTech, Donostia, Gipuzkoa, Euskal Herria</p>
-            <p><strong>Telefonoa:</strong> +34 123 456 789</p>
-            <p><strong>Telefonoa (arreta teknikoa):</strong> +34 987 654 321</p>
-            <p><strong>Emaila (orokorra):</strong> info@revivatech.com</p>
-            <p><strong>Emaila (laguntza teknikoa):</strong> support@revivatech.com</p>
+            <p><strong>Helbidea:</strong> RigbyTech, Iruña, Nafarroa</p>
+            <p><strong>Telefonoa:</strong> +34 632 33 28 79</p>
+            <p><strong>Telefonoa (arreta teknikoa):</strong> +34 944 73 90 56</p>
+            <p><strong>Emaila (orokorra):</strong> info@rigbytech.com</p>
+            <p><strong>Emaila (laguntza teknikoa):</strong> support@rigbytech.com</p>
         </div>
         <br>
 
