@@ -2,6 +2,9 @@
     font-family: sans-serif;
 }
 
+    
+
+ 
 .top {
     background-color: #ae7b57;
     position: fixed;
@@ -213,4 +216,9 @@ iframe:hover {
     background-color: green;
     border-radius: 5px;
 }
-
+.text{
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -36px;
+    padding: 5px;
+}
