@@ -80,10 +80,10 @@
                     header("Location: news.php"); 
                     exit();
                 } else {
-                    echo "<p style='color: red;'>Contraseña incorrecta.</p>";
+                    echo "<p style='color: red;'>Incorrect password.</p>";
                 }
             } else {
-                echo "<p style='color: red;'>El correo no está registrado.</p>";
+                echo "<p style='color: red;'>The email is not registered.</p>";
             }}
         
         

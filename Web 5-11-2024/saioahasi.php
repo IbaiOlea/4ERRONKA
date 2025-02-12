@@ -31,16 +31,16 @@
     <div class="post">
         <h1>Saioa Hasi</h1>
         <div>
-            <form action="/submit_selling_request" method="post">
+        <form action="" method="post">
                 <div>
                     <label for="name">Email-a:</label><br>
                     <input type="email" id="name" name="name" required><br><br>
                 </div>
                 <div>
                     <label for="email">Pasahitza:</label><br>
-                    <input type="password" id="email" name="pass" required><br><br>
+                    <input type="password" id="pass" name="pass" required><br><br>
                 </div>
-        
+
                 <input type="submit" value="Saioa Hasi">
             </form>
         </div>
@@ -49,16 +49,16 @@
             $email = $_POST["name"];
             $password = $_POST["pass"];
         
-            
+           
             $servername = "localhost";
             $db_username = "root";
             $db_password = "1MG2024";
             $dbname = "2erronka";
         
-            
+           
             $conn = new mysqli($servername, $db_username, $db_password, $dbname);
             
-           
+            
             if ($conn->connect_error) {
                 die("Error de conexión: " . $conn->connect_error);
             }
@@ -70,20 +70,20 @@
             $stmt->store_result();
         
             if ($stmt->num_rows > 0) {
-                
+               
                 $stmt->bind_result($hashed_password);
                 $stmt->fetch();
         
-               
+                
                 if ($password === $hashed_password) { 
                     $_SESSION["user_email"] = $email;
                     header("Location: berriak.php"); 
                     exit();
                 } else {
-                    echo "<p style='color: red;'>Contraseña incorrecta.</p>";
+                    echo "<p style='color: red;'>Pasahitza ez da zuzena.</p>";
                 }
             } else {
-                echo "<p style='color: red;'>El correo no está registrado.</p>";
+                echo "<p style='color: red;'>Email-a ez dago erregistratuta.</p>";
             }}
         
         
