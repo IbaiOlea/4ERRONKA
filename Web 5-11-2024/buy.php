@@ -26,6 +26,7 @@
         <ul class="language">
     <li><a href="erosi.php"><img src="ikurriña.png"  width="24" height="16"></a></li>
     <li><a href="buy.php"><img src="inglaterra.png"  width="24" height="16"></a></li>
+    <li><a href="cesta.php"><img src="shopping-basket-icon-simple-style-vector.png"  width="30" height="22"></a></li>
 </ul>
 </div>
 <div class="menu-toggle" onclick="toggleMenu()">☰</div>
@@ -39,8 +40,11 @@
         <a href="sell.php">Sell</a>
         <a href="contact.php">Contact</a>
         <a href="signin.php">Sign In</a>
+        </
+        <ul class="language">
         <a href="buy.php"><img src="inglaterra.png"  width="24" height="16"></a>
         <a href="erosi.php"><img src="ikurriña.png"  width="24" height="16"></a>
+        <li><a href="cesta.php"><img src="shopping-basket-icon-simple-style-vector.png"  width="30" height="22"></a></li>
     </div>
 
     <script>

@@ -26,13 +26,14 @@
         <ul class="language">
     <li><a href="erosi.php"><img src="ikurriña.png"  width="24" height="16"></a></li>
     <li><a href="buy.php"><img src="inglaterra.png"  width="24" height="16"></a></li>
+    <li><a href="cesta.php"><img src="shopping-basket-icon-simple-style-vector.png"  width="30" height="22"></a></li>
 </ul>
 </div>
 <div class="menu-toggle" onclick="toggleMenu()">☰</div>
 
     
     <div class="side-menu" id="sideMenu">
-        <span class="close-btn" onclick="toggleMenu()">×</span>
+        <span class="close-btn" onclick="toggleMenu()"></span>
         <a href="berriak.php">Berriak</a>
         <a href="guriburuz.php">Guri Buruz</a>
         <a href="erosi.php">Erosi</a>
