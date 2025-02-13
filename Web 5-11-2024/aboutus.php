@@ -54,39 +54,41 @@
     <div class="post">
     <h1>About Us</h1>        
 <div>             
-    <h2 class="letterTitle">RigbyTech: Innovating for a greener tomorrow.</h2>              
-    <p><strong>RigbyTech</strong> is a company dedicated to transforming the way we handle technology. Founded in 2023, we specialize in refurbishing and repurposing second-hand electronic devices, giving them a second life and reducing environmental impact.                 
-        <br><br>                  
-        Our mission is to make sustainable technology accessible to everyone. We collaborate with local communities to collect unused or broken electronic devices, which our team of experts then evaluates, repairs, and reintegrates into the market. This approach helps minimize e-waste while providing high-quality, affordable technology solutions.                  
-        <br><br>                  
-        At RigbyTech, we believe in a future where technology and sustainability go hand in hand. Through continuous innovation, we strive to offer eco-friendly alternatives that benefit both our customers and the planet.             
-    </p>              
-    <br>              
-    <h2 class="letterTitle">Our Values</h2>             
-    <p>We are committed to:</p>             
-    <ul>                 
-        <li class="text"><strong>Eco-Friendliness:</strong> Reducing electronic waste and promoting a circular economy.</li>                 
-        <li class="text"><strong>Reliability:</strong> Ensuring all refurbished devices meet high standards of performance and durability.</li>                 
-        <li class="text"><strong>Innovation:</strong> Developing new ways to extend the lifespan of technology and reduce its environmental footprint.</li>                 
-        <li class="text"><strong>Community Engagement:</strong> Partnering with local organizations to promote responsible tech consumption.</li>             
-    </ul>              
-    <br>             
-    <h2 class="letterTitle">How It Works</h2>             
-    <p>Our process is simple and effective:</p>             
-    <ol>                 
-        <li class="text"><strong>Device Collection:</strong> Individuals and businesses can donate or sell their used devices through our website.</li>                 
-        <li class="text"><strong>Assessment & Repair:</strong> Our specialists examine each item, repair what can be fixed, and repurpose usable parts.</li>                 
-        <li class="text"><strong>Resale & Redistribution:</strong> Restored devices are added to our online store, making sustainable technology more accessible.</li>                 
-        <li class="text"><strong>Responsible Recycling:</strong> Non-repairable parts are recycled in an environmentally friendly manner.</li>             
-    </ol>              
-    <br>             
-    <h2 class="letterTitle">Our Facilities</h2>             
-    <p>We operate in key locations across the Basque Country:</p>             
-    <ul>                 
-        <li class="text"><strong>San Sebastián:</strong> Our main recycling hub, where devices are collected and sorted.</li>                 
-        <li class="text"><strong>Bilbao:</strong> The primary refurbishment center, where devices are restored to top condition.</li>                 
-        <li class="text"><strong>Vitoria:</strong> A specialized facility focused on parts recovery and sustainable tech solutions.</li>             
-    </ul>
+<h2 class="letterTitle">RigbyTech: Innovation for a Greener Future.</h2> 
+<p><strong>RigbyTech</strong> is a company committed to transforming technology management sustainably. Founded in 2023, we specialize in refurbishing and reusing second-hand electronic devices, giving them a second life and reducing environmental impact. <br><br> 
+
+Our goal is to make sustainable technology accessible to everyone. We collaborate with local communities to collect unused or damaged electronic devices. Our experts inspect, repair, and reintroduce them into the market. This helps reduce electronic waste while providing high-quality and affordable technological solutions. <br><br> 
+
+At RigbyTech, we believe that technology and sustainability must go hand in hand in the future. Through continuous innovation, we strive to offer eco-friendly alternatives that benefit both our customers and the planet. </p> 
+<br> 
+
+<h2 class="letterTitle">Our Values</h2> 
+<p>We are committed to:</p> 
+<ul> 
+<li class="text"><strong>Environmental care:</strong> Reducing electronic waste and promoting a circular economy.</li> 
+<li class="text"><strong>Reliability:</strong> Ensuring that all refurbished devices meet high standards of performance and durability.</li> 
+<li class="text"><strong>Innovation:</strong> Developing new ways to extend the life of technology and reduce its environmental impact.</li> 
+<li class="text"><strong>Community collaboration:</strong> Partnering with local organizations to promote responsible technology consumption.</li> 
+</ul> 
+<br> 
+
+<h2 class="letterTitle">How We Work</h2> 
+<p>Our process is simple and efficient:</p> 
+<ol> 
+<li class="text"><strong>Device collection:</strong> Individuals and businesses can donate or sell their used devices through our website.</li> 
+<li class="text"><strong>Evaluation and repair:</strong> Our specialists examine each component, repairing what can be fixed and reusing salvageable parts.</li> 
+<li class="text"><strong>Sales and distribution:</strong> Refurbished devices are made available in our online store, making sustainable technology more accessible.</li> 
+<li class="text"><strong>Responsible recycling:</strong> Non-repairable parts are recycled in an environmentally friendly manner.</li> 
+</ol> 
+<br> 
+
+<h2 class="letterTitle">Our Facilities</h2> 
+<p>We operate in strategic locations across the Basque Country:</p> 
+<ul> 
+<li class="text"><strong>Donostia:</strong> Our main recycling center, where devices are received and sorted.</li> 
+<li class="text"><strong>Bilbao:</strong> The main facility where devices are restored to excellent condition.</li> 
+<li class="text"><strong>Vitoria-Gasteiz:</strong> A center specialized in component recovery and sustainable technology.</li> 
+</ul>
 
 
             <br>
