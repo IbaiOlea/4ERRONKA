@@ -24,10 +24,30 @@
             <li class="s"><a href="saioahasi.php">Saioa Hasi</a></li>
         </ul>
         <ul class="language">
-            <li><a href="erosi.php">EUS</a></li>
-            <li><a href="buy.php">ENG</a></li>
-        </ul>
+    <li><a href="erosi.php"><img src="ikurriña.png"  width="24" height="16"></a></li>
+    <li><a href="buy.php"><img src="inglaterra.png"  width="24" height="16"></a></li>
+</ul>
 </div>
+<div class="menu-toggle" onclick="toggleMenu()">☰</div>
+
+    
+    <div class="side-menu" id="sideMenu">
+        <span class="close-btn" onclick="toggleMenu()">×</span>
+        <a href="berriak.php">Berriak</a>
+        <a href="guriburuz.php">Guri Buruz</a>
+        <a href="erosi.php">Erosi</a>
+        <a href="saldu.php">Saldu</a>
+        <a href="kontaktua.php">Kontaktua</a>
+        <a href="saioahasi.php">Saioa Hasi</a>
+        <a href="buy.php"><img src="inglaterra.png"  width="24" height="16"></a>
+        <a href="erosi.php"><img src="ikurriña.png"  width="24" height="16"></a>
+    </div>
+
+    <script>
+        function toggleMenu() {
+            document.getElementById("sideMenu").classList.toggle("active");
+        }
+    </script>
     <div class="post">
         <h1>Erosi</h1>
         <p>Jarraian salgai ditugun produktuak ikus ditzakezu:</p>

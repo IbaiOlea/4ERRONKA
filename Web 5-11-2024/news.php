@@ -24,10 +24,30 @@
             <li class="s"><a href="signin.php">Sign In</a></li>
         </ul>
         <ul class="language">
-            <li><a href="berriak.php">EUS</a></li>
-            <li><a href="news.php">ENG</a></li>
-        </ul>
+    <li><a href="berriak.php"><img src="ikurriña.png"  width="24" height="16"></a></li>
+    <li><a href="news.php"><img src="inglaterra.png"  width="24" height="16"></a></li>
+</ul>
 </div>
+<div class="menu-toggle" onclick="toggleMenu()">☰</div>
+
+    
+    <div class="side-menu" id="sideMenu">
+        <span class="close-btn" onclick="toggleMenu()">×</span>
+        <a href="news.php">News</a>
+        <a href="aboutus.php">About Us</a>
+        <a href="buy.php">Buy</a>
+        <a href="sell.php">Sell</a>
+        <a href="contact.php">Contact</a>
+        <a href="signin.php">Sign In</a>
+        <a href="news.php"><img src="inglaterra.png"  width="24" height="16"></a>
+        <a href="berriak.php"><img src="ikurriña.png"  width="24" height="16"></a>
+    </div>
+
+    <script>
+        function toggleMenu() {
+            document.getElementById("sideMenu").classList.toggle("active");
+        }
+    </script>
 
     <div class="post">
         <h1>News</h1>
