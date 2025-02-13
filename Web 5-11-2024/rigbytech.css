@@ -372,6 +372,54 @@ body {
     font-size: 30px;
     cursor: pointer;
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: lightgray;
+}
+
+button {
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+button:nth-child(1) {
+    background-color: green;
+    color: white;
+}
+
+button:nth-child(2) {
+    background-color: blue;
+    color: white;
+}
+table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+th, td {
+    font-size: 14px;
+    padding: 8px;
+}
+
+button {
+    font-size: 12px;
+    padding: 6px 10px;
+}
 }
     
 
