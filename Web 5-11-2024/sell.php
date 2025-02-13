@@ -28,11 +28,11 @@
     <li><a href="sell.php"><img src="inglaterra.png"  width="24" height="16"></a></li>
 </ul>
 </div>
-<div class="menu-toggle" onclick="toggleMenu()">☰</div>
+<div class="menu-toggle" onclick="menua()">☰</div>
 
     
     <div class="side-menu" id="sideMenu">
-        <span class="close-btn" onclick="toggleMenu()">×</span>
+        <span class="close-btn" onclick="menua()"></span>
         <a href="news.php">News</a>
         <a href="aboutus.php">About Us</a>
         <a href="buy.php">Buy</a>
@@ -44,7 +44,7 @@
     </div>
 
     <script>
-        function toggleMenu() {
+        function menua() {
             document.getElementById("sideMenu").classList.toggle("active");
         }
     </script>
