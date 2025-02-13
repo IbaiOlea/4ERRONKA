@@ -52,13 +52,9 @@
         <h1>Erosi</h1>
         <p>Jarraian salgai ditugun produktuak ikus ditzakezu:</p>
         <div class="product-list">
-
-           
-            <script>
-                function myFunction() {
-                    alert("Saskira gehitu da!");
-                    }
-            </script>
+        <?php
+        require_once("db.php");
+        ?>   
         </div>
         
     </div>

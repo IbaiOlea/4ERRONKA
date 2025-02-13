@@ -44,6 +44,7 @@ ul.menu {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+
 .topimg {
     position: absolute;
     right: 5%;
@@ -147,14 +148,7 @@ label, input, textarea, select{
     height: 30px;
     color:#ae7b57;
 }
-.product-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-    padding: 20px;
-    background-color: #f4f4f4; 
-}
+
 
 .product-item {
     border: 1px solid #ccc;
